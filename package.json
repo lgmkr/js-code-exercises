@@ -1,0 +1,23 @@
+{
+  "name": "code-exercises",
+  "version": "1.0.0",
+  "description": "- [ ] Fizz Buzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll --verbose=false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgmkr/code-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgmkr/code-exercises/issues"
+  },
+  "homepage": "https://github.com/lgmkr/code-exercises#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}

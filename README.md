@@ -1,3 +1,3 @@
 ## Warm up
 
-- [ ] Fizz Buzz
+- [x] Fizz Buzz
