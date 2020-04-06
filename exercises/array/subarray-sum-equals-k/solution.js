@@ -15,6 +15,7 @@ const subarraySum = (nums, k) => {
   const counts = { 0: 1 };
   let sum = 0;
   let count = 0;
+
   for (i = 0; i < nums.length; i++) {
     sum += nums[i];
 
@@ -27,5 +28,5 @@ const subarraySum = (nums, k) => {
   return count;
 };
 module.exports = {
-  subarraySum
+  subarraySum,
 };

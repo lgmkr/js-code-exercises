@@ -1,12 +1,15 @@
-https://leetcode.com/problems/subarray-sum-equals-k/
+[Subarray sum equals k @ leetcode](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+### Description:
 
 Given an array of integers and an integer k, you need to find the total number of continuous subarrays whose sum equals to k.
 
-Example 1:
+### Task:
 
 ```
 Input:
-nums = [1,1,1], k = 2
+nums = [1,1,1],
+k = 2
 
 Output: 2
 ```

@@ -1,6 +1,6 @@
 // ES5
 
-var simple = function() {
+var simple = function () {
   for (i = 1; i <= 100; i++) {
     if (i % 3 === 0 && i % 5 === 0) {
       console.log("FizzBuzz");
@@ -14,7 +14,7 @@ var simple = function() {
   }
 };
 
-var simple2 = function() {
+var simple2 = function () {
   var i, output;
   for (i = 1; i < 101; i += 1) {
     output = "";
@@ -30,13 +30,13 @@ var simple2 = function() {
 
 // ghetto pattern matching
 
-var GhettoPatternMatching = function() {
+var GhettoPatternMatching = function () {
   for (i = 1; i <= 100; i++) {
     console.log(
       {
         truefalse: "Fizz",
         falsetrue: "Buzz",
-        truetrue: "FizzBuzz"
+        truetrue: "FizzBuzz",
       }[!(i % 3) + "" + !(i % 5)] || i
     );
   }
@@ -45,7 +45,7 @@ var GhettoPatternMatching = function() {
 (function rng(i) {
   return i ? rng(i - 1).concat(i) : [];
 })(100)
-  .map(function(n) {
+  .map(function (n) {
     return n % 3 ? (n % 5 ? n : "Buzz") : n % 5 ? "Fizz" : "FizzBuzz";
   })
   .join(" ");
