@@ -4,7 +4,8 @@ Get unique items
 
 ### Options
 
-[x] Using filter array method ([code]())
+- Using _filter_ array method ([code]())
+- Using _Set_ object([code]())
 
 ### Materials:
 
