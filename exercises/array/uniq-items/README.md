@@ -1,6 +1,6 @@
 ### Task:
 
-Get unique items
+Get unique items from array
 
 ### Options
 
