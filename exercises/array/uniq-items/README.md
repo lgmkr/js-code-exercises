@@ -6,6 +6,7 @@ Get unique items from array
 
 - Using _filter_ array method ([code]())
 - Using _Set_ object([code]())
+- Using _reduce_
 
 ### Materials:
 
