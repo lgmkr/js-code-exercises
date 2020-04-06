@@ -27,6 +27,7 @@ const subarraySum = (nums, k) => {
   }
   return count;
 };
+
 module.exports = {
   subarraySum,
 };
