@@ -1,4 +1,4 @@
-const fn = require("./two-loops");
+const fn = require("./using-hashtable");
 
 const array = [3, 4, 7, 2, -3, 1, 4, 2];
 const k = 7;
