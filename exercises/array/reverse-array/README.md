@@ -20,10 +20,10 @@
   Time complexity: O(n)  
   Space complexity: O(1)
 
-- Using _recursion_ :  
+- Using _recursion_ with _index_:  
   Time complexity: O(n)  
   Space complexity: O(n)
 
-- Using _Array.prototype.pop()_ :  
+- Using _recursion_ with _Array.prototype.pop()_:  
   Time complexity: O(n)  
   Space complexity: O(n)

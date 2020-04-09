@@ -19,5 +19,8 @@
   "homepage": "https://github.com/lgmkr/code-exercises#readme",
   "dependencies": {
     "jest": "^24.8.0"
+  },
+  "devDependencies": {
+    "jest-watch-typeahead": "^0.5.0"
   }
 }
