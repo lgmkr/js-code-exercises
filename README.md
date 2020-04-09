@@ -7,6 +7,7 @@
 - Find unique values from array [link](exercises/array/uniq-items/README.md)
 - Find subarray sum equals K [link](exercises/array/subarray-sum-equals-k/README.md)
 - Maximum sum of product of two arrays [link](exercises/array/maximum-sum-of-products/README.md)
+- Find the correct position to insert an element in the array [link](exercises/array/find-position-to-insert/README.md)
 
 ### Misc
 
