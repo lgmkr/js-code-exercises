@@ -13,3 +13,6 @@ B[] = {4, 5, 1}
 Output : 24
 
 Explanation : Maximum sum of product is obtained by 5*3+4*2+1\*1 = 24.
+
+Time complexity: O(nlogn);
+Space complexity: O(1);
