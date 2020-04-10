@@ -8,6 +8,7 @@
 - Find subarray sum equals K [link](exercises/array/subarray-sum-equals-k/README.md)
 - Maximum sum of product of two arrays [link](exercises/array/maximum-sum-of-products/README.md)
 - Find the correct position to insert an element in the array [link](exercises/array/find-position-to-insert/README.md)
+- Find a pair of integers in unsorted array with a given sum k [link](exercises/array/pair-with-given-sum/README.md)
 
 ### Misc
 
