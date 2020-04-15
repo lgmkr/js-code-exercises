@@ -15,7 +15,7 @@
 
 ### String
 
-- [Count number of sub-string occurrence in a string](src/string/sub-string-occurrences/README.md)
+- [Count number of sub-string occurrence in a string](src/string/sub-string-occurrence/README.md)
 
 ### Misc
 
