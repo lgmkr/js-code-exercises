@@ -13,6 +13,10 @@
 - [Find a pair of integers in unsorted array with a given sum k](src/array/pair-with-given-sum/README.md)
 - [Check if an array is palindrome](src/array/is-palindrome/README.md)
 
+### String
+
+- [Count number of sub-string occurrence in a string](src/string/sub-string-occurrences/README.md)
+
 ### Misc
 
 - [Fizz Buzz](src/misc/fizz-buzz/README.md)
