@@ -18,6 +18,7 @@
 - [Count number of sub-string occurrence in a string](src/string/sub-string-occurrence/README.md)
 - [Build an algorithm to check if a given string is palindrome or not.](src/string/is-palindrome/README.md)
 - [Build an algorithm to reverse a string.](src/string/reverse/README.md)
+- [Build an algorithm to count all the substrings of the given string which has the character k at least once.](src/string/substrings-character-k/README.md)
 
 ### Misc
 
